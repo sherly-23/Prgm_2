@@ -1,5 +1,4 @@
-
-    import java.time.LocalDate;
+import java.time.LocalDate;
 import java.time.Period;
 
 class Student {
@@ -24,5 +23,3 @@ public class Main {
         s.displayInfo();
     }
 }
-
-
